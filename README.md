@@ -2,7 +2,7 @@
 
 ## Description
 
-Plot punch card from a list of githu repos
+Plot punch card from a list of github repos.
 
 ## Usage
 
